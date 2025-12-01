@@ -1,5 +1,0 @@
-git clone https://github.com/hctechtj-cmd/RUILOU.git
-cd RUILOU
-git rm RUILOU.rar
-git commit -m "Remove erroneous RAR file"
-git push origin main
